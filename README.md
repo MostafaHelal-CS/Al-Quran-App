@@ -118,44 +118,6 @@ npm run build
 
 ---
 
-## 📋 Changelog
-
-### v10.5 (Latest)
-- 🔧 **Hooks fix**: All React hooks properly ordered before early returns in `Surahs`
-- 🎙️ **Live v2**: Full surah player using `cdn.islamic.network` — no streaming auth issues
-- 🎨 **Tafasir UX v2**: Searchable grid of cards replacing sidebar list; "Now Playing" hero
-- 📖 **ReadingTracker v2**: SVG ring progress, undo button, goal stepper (+/−), unified layout
-- 💾 **Storage fix**: OfflineCache now shows actual app localStorage size (not total browser)
-- 🌐 **theme-color dynamic**: Status bar color updates when theme changes
-- ✨ **Favicon v2**: New "القرآن الكريم" Arabic SVG favicon with decorative ornaments
-
-### v10.4
-- ⚡ Surahs lazy loading — loads surah list (15KB) then ayahs per-surah on demand
-- 🎛️ ReadingToolbar v4 — single unified bar with nav + label + expandable controls
-- 📡 Live streaming fixed — replaced broken streaming URLs
-
-### v10.3
-- Surahs page redesigned (hooks fix, on-demand loading)
-- Live streams fixed to qurango.net
-- Navbar merged into ReadingToolbar
-
-### v10.2
-- ReadingToolbar v3 floating pill
-- VerseCounter daily tracker
-- WordByWord panel
-
-### v10.1
-- Full Page Reader no-scroll mode
-- Reciters API with fallbacks
-- Live page enhanced
-
-### v10.0
-- Home tab redesign
-- Reciters v3 (mp3quran.net)
-- 36 tabs total
-
----
-
 <div align="center">
 Made with ❤️ for the Muslim Ummah
 </div>
