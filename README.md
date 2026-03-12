@@ -36,8 +36,7 @@
 |---|---|
 | **الاستماع** | Surah audio player with 10+ reciters |
 | **القراء** | Reciters page via mp3quran.net API |
-| **الإذاعة** | Radio streaming with favorites |
-| **بث مباشر v2** | Full Quran player — 8 reciters × 114 surahs from cdn.islamic.network |
+| **الإذاعة** | Radio streaming with favorites|
 
 ### 🕌 Islamic Tools
 | Feature | Description |
