@@ -734,7 +734,7 @@ function buildStyles (theme, dark, qfont) {
      AUTO-BOOKMARK
   ════════════════════════════════════════════════ */
   .resume-fixed{
-    position:fixed;bottom:64px;left:50%;transform:translateX(-50%);
+    position:fixed;top:0;left:50%;transform:translateX(-50%);
     display:flex;align-items:center;gap:10px;
     background:var(--card);border:1.5px solid var(--ac);border-radius:var(--r-lg);
     padding:11px 16px;z-index:3500;
@@ -983,7 +983,7 @@ function buildStyles (theme, dark, qfont) {
   }
   @media(max-width:767px){
     .reader-footer-nav{
-      position:fixed;bottom:57px;left:0;right:0;
+      position:fixed;bottom:-50px;left:0;right:0;
       border-radius:0;border-left:none;border-right:none;border-bottom:none;
       padding:9px 16px;z-index:1100;margin-top:0;
     }
